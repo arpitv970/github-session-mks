@@ -55,6 +55,16 @@ class Solution:
         return hi + 1
 ```
 
+### INPUT:
+```
+[1,3,5,6]
+5
+```
+
+### OUTPUT:
+```
+2
+```
 # Problems:
 uploading problems soon...
 
