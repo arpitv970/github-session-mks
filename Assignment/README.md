@@ -66,7 +66,58 @@ class Solution:
 2
 ```
 # Problems:
-uploading problems soon...
+## #P1: The following code is incomplete, complete it with appropriate code & logic
+```cpp
+include <iostream>
+ using namespace std;
+void multiply(int mat1[][N],
+              int mat2[][N],
+              int res[][N])
+{
+    int i, j, k;
+    for (i = 0; i < N; i++) {
+        for (j = 0; j < N; j++) {
+            res[i][j] = 0;
+            for (k = 0; k < N; k++)
+                res[i][j] += mat1[][] * mat2[][];
+        }
+    }
+}
+int main()
+{
+    int i, j;
+    int res[N][N]; // To store result
+    int mat1[N][N] = { { },
+                       {  },
+                       {  },
+                       {  };
+ 
+    int mat2[N][N] = {  },
+                       { },
+                       {},
+                       {  } };
+ 
+    multiply(mat1, mat2, res);
+ 
+    cout << "Result matrix is \n";
+    for (i = 0; i < N; i++) {
+        for (j = 0; j < N; j++)
+            cout << res[i][j] << " ";
+        cout << "\n";
+    }
+}
+``` 
+## Output should be
+```
+Result matrix is 
+10 10 10 10 
+20 20 20 20 
+30 30 30 30 
+40 40 40 40
+```
 
+## #P2: What are branches in GitHub? (Hint: Do read Docs that was provided in session)
+
+## #P3: How you store negative number in programming (you can use c++ for implementation) and if you print always positive number what will you use rather than default condition :(internet ka use nhi lena apna concept lagana hai  plagiarism‌ check hoga)
 
 >**NOTE:** <br> The main motive of assignment is to get yourself comfortable with *pushing the code*, but still we want to make your brain cells grind to increase your *problem solving skills*.
