@@ -127,6 +127,6 @@ ans-- A branch in Git is a way to keep developing and coding
 ## #P3: How you store negative number in programming (you can use c++ for implementation) and if you print always positive number what will you use rather than default condition :(internet ka use nhi lena apna concept lagana hai  plagiarism‌ check hoga)
 ans-- The simplest is to simply use the leftmost digit of the number as a special value to 
 		represent the sign of the number: 0 = positive, 1 = negative. For example, a value of 
-		positive 14 (decimal) would be written as 01110 in binary, but negative 12 (decimal) 
+		positive 14 (decimal) would be written as 01110 in binary, but negative 14 (decimal) 
 		would be written as 11110.
 >**NOTE:** <br> The main motive of assignment is to get yourself comfortable with *pushing the code*, but still we want to make your brain cells grind to increase your *problem solving skills*.
