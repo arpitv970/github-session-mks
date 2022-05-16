@@ -1,0 +1,15 @@
+In c++ , as the number can be positive and negative also .
+So to convert negative into positive, we use abs() function.
+
+#include <iostream>
+using namespace std;
+
+int main(){
+int a;
+
+a=-1.43567;
+a= abs(a);
+cout << a;
+return 0;
+
+}
