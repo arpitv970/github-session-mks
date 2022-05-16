@@ -1,0 +1,15 @@
+
+MKS Assignment-1
+
+QUES-2	What are branches in GitHub? 
+
+ANS-2	A branch in Git is a way to keep developing and coding
+		a new feature or modification to the software and still not affecting 
+		the main part of the project. We can also say that branches create another	
+		line of development in the project. The primary or default branch in Git is the 
+		master branch (similar to a trunk of the tree).
+
+
+
+
+
