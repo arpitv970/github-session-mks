@@ -1,0 +1,54 @@
+#include <iostream>
+
+using namespace std;
+
+#define x1 4
+#define y1 4
+#define x2 4
+#define y2 4
+
+void mulMat(int mat1[][y1], int mat2[][y2], int res[x1][y2])
+{
+
+    for (int i = 0; i < x1; i++)
+    {
+        for (int j = 0; j < y2; j++)
+        {
+            res[i][j] = 0;
+
+            for (int k = 0; k < x2; k++)
+            {
+                res[i][j] += mat1[i][k] * mat2[k][j];
+            }
+        }
+    }
+}
+
+int main(void)
+{
+    int x1, x2, y1, y2;
+    int res[x1][y2];
+    int mat1[x1][y1] = {
+        {1, 1, 1, 1},
+        {2, 2, 2, 2},
+        {3, 3, 3, 3},
+        {4, 4, 4, 4}};
+
+    int mat2[x2][y2] = {
+        {1, 1, 1, 1},
+        {2, 2, 2, 2},
+        {3, 3, 3, 3},
+        {4, 4, 4, 4}};
+
+    mulMat(mat1, mat2, res);
+
+    cout << "Result matrix is \n";
+    for (int i = 0; i < x1; i++)
+    {
+        for (int j = 0; j < y2; j++)
+            cout << res[i][j] << " ";
+        cout << "\n";
+
+        return 0;
+    }
+}
