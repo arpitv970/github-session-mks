@@ -5,3 +5,4 @@ ANS-3	The simplest is to simply use the leftmost digit of the number as a specia
 		represent the sign of the number: 0 = positive, 1 = negative. For example, a value of 
 		positive 12 (decimal) would be written as 01100 in binary, but negative 12 (decimal) 
 		would be written as 11100.
+		we use unsigned keyword to print positive values.
