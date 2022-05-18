@@ -1,0 +1,6 @@
+QUES-3	How you store negative number in programming (you can use c++ for implementation) 
+		and if you print always positive number what will you use rather than default condition
+
+ANS-3		The leftmost digit of the number  use to  
+		represent the sign of the number: 0 = positive, 1 = negative.
+		we use unsigned keywords to print positive values.

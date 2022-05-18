@@ -1,0 +1,5 @@
+MKS Assignment-1
+
+QUES-2	What are branches in GitHub? 
+
+ANS-2   Branches in Github use in making projects with a team in which a master branch has sub-branches like main branches where other team member can contribute and developed the code in a better way to make it simple and easy to branches work in Github 
