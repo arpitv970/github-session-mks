@@ -1,0 +1,9 @@
+#P2
+
+Solution of Question 2
+
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+
+You always create a branch from an existing branch.
+
+Typically, you might create a new branch from the default branch of your repository.
