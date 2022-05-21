@@ -1,0 +1,12 @@
+Branch refers to the way of developing and coding new feature or updating old features in the software but it does not affect the main code of project.
+
+The main branch of Git is MASTER BRANCH.
+As these branches in Git are needed to create another line for developing or coding of other part of software so that main part of code of the software is not affected
+
+Some operations on branch are -:
+1. Create a Branch
+2. Merge a Branch
+3. Delete a Branch 
+4. Checout a Branch
+
+With the help of branch we can create or delete the features for the client in software.
