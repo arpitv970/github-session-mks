@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int x;
+    x = -5.23456;
+    x = abs(x);
+    cout << x;
+    return 0;
+}

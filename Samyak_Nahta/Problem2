@@ -1,0 +1,3 @@
+Branches allow you to develop features, safely or fix bugs experiment with new ideas in a contained area of your repository.
+You always create a branch from an existing branch.
+You can create a new branch from the default branch of your repository.
