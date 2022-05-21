@@ -117,7 +117,16 @@ Result matrix is
 ```
 
 ## #P2: What are branches in GitHub? (Hint: Do read Docs that was provided in session)
+ans-- A branch in Git is a way to keep developing and coding
+		a new feature or modification to the software and still not affecting 
+		the main part of the project. We can also say that branches create another	
+		line of development in the project. The primary or default branch in Git is the 
+		master branch (similar to a trunk of the tree).
+
 
 ## #P3: How you store negative number in programming (you can use c++ for implementation) and if you print always positive number what will you use rather than default condition :(internet ka use nhi lena apna concept lagana hai  plagiarism‌ check hoga)
-
+ans-- The simplest is to simply use the leftmost digit of the number as a special value to 
+		represent the sign of the number: 0 = positive, 1 = negative. For example, a value of 
+		positive 14 (decimal) would be written as 01110 in binary, but negative 14 (decimal) 
+		would be written as 11110.
 >**NOTE:** <br> The main motive of assignment is to get yourself comfortable with *pushing the code*, but still we want to make your brain cells grind to increase your *problem solving skills*.
