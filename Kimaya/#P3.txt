@@ -1,0 +1,9 @@
+#P3
+
+Solution of Question 3
+
+For changing a negative value into positive
+
+abs() for int
+fabs() for double
+fabsf() for float
