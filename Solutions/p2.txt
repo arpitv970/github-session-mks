@@ -1,0 +1,5 @@
+#Branches in Github:
+
+Branches in git hub is very useful tool. It is used to make diffrent copies of a project which are then undependent to each other. These copies do not make any extra folder. Even required data is store in git hidden files.
+
+This is very useful for keeping the original project work seperate from personal edits and mistakes. Braches in github can be switched any time without going to any other folder.
